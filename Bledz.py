@@ -198,7 +198,7 @@ for x in range(999):
 	B = f'{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}{str(rr(11,99))}{str(rc(aZ))} '
 	C = f'{str(rr(4,12))} Build/{B}) AppleWebKit/537.36 (KHTML, like Gecko)'
 	D = f' Chrome/{str(rr(20,100))}.0.{str(rr(1111,9999))}.{str(rr(20,100))}'
-	E = f' Mobile Safari/537.36 AlohaBrowser/2.15.0'
+	E = f' Mobile Safari/537.36'
 	F = f'{A}{C}{D}{E}'
 	if F in redmi:pass
 	else:redmi.append(F)
@@ -625,11 +625,11 @@ def atur_atur():
 		for x in dump:
 			id.append(x)
 	print(f"{P} ─────────────────────────────")
-	cp = input(f' [{hh}!{P}] VIEW OPTION CHECKPOINT : NO ')
+	cp = input(f' [{hh}!{P}] VIEW OPTION CHECKPOINT :  ')
 	if cp in ['y','Y','ya','Ya','1','01','yy','YA','yA']:
 		cepeh.append('ya')
 	print(f"{P} ─────────────────────────────")
-	apk = input(f' [{hh}!{P}] VIEW APPLICATION : NO ')
+	apk = input(f' [{hh}!{P}] VIEW APPLICATION :  ')
 	if apk in ['y','Ya','ya','1']:akunok.append('apk')
 	else:akunok.append('coki')
 	print(f"{P} ─────────────────────────────")
