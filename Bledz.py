@@ -196,7 +196,7 @@ for x in range(999):
 #	else:redmi.append(mi)
 	A = f'Mozilla/5.0 (Linux; Android {str(rr(5,12))}; Redmi Note '
 	B = f'{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}{str(rr(11,99))}{str(rc(aZ))} '
-	C = f'{str(rr(4,12))} Build/){B}) AppleWebKit/537.36 (KHTML, like Gecko)'
+	C = f'{str(rr(4,12))} Build/{B}) AppleWebKit/537.36 (KHTML, like Gecko)'
 	D = f' Chrome/{str(rr(20,100))}.0.{str(rr(1111,9999))}.{str(rr(20,100))}'
 	E = f' Mobile Safari/537.36 AlohaBrowser/2.15.0'
 	F = f'{A}{C}{D}{E}'
