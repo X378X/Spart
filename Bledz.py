@@ -189,7 +189,7 @@ for x in range(999):
 #	if pf in redmi:pass
 #	else:redmi.append(pf)
 #	A = f'Mozilla/5.0 (Linux; U; Android {str(rr(7,10))};'
-#	B = f' en-us; vivo Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/'
+#	B = f' en-us; Vivo Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
 #	C = f'10.9.2.{str(rr(111,999))} U3/0.8.0 Mobile Safari/537.36'
 #	mi = f'{A}{B}{C}'
 #	if mi in redmi:pass
