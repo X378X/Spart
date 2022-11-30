@@ -188,13 +188,13 @@ for x in range(999):
 #	pf = f'{A}{B}{C}{D}'
 #	if pf in redmi:pass
 #	else:redmi.append(pf)
-#	A = f'Mozilla/5.0 (Linux; U; Android {str(rr(7,10))};'
-#	B = f' en-us; OPPO A Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/'
+#	A = f'Mozilla/5.0 (Linux; Android {str(rr(7,10))};'
+#	B = f' en-us; OPPO Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.108 UCBrowser/'
 #	C = f'10.9.2.{str(rr(111,999))} U3/0.8.0 Mobile Safari/537.36'
 #	mi = f'{A}{B}{C}'
 #	if mi in redmi:pass
 #	else:redmi.append(mi)
-	A = f'Mozilla/5.0 (Linux; Android {str(rr(6,12))}; Redmi Note '
+	A = f'Mozilla/5.0 (Linux; Android {str(rr(6,13))}; Redmi Note '
 	B = f'{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}{str(rr(11,99))}{str(rc(aZ))} '
 	C = f'{str(rr(4,12))} Build/{B}) AppleWebKit/537.36 (KHTML, like Gecko)'
 	D = f' Chrome/{str(rr(20,100))}.0.{str(rr(1111,9999))}.{str(rr(20,100))}'
