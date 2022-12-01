@@ -164,11 +164,11 @@ for xd in range(10000):
 
 	aa='Mozilla/5.0 (Linux; Android,'
 	b=random.choice(['6','7','8','9','10','11','12'])
-	c='en-us; Redmi Note'
+	c='REALME RMX1911'
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	e=random.randrange(1, 999)
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-	g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
+	g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
 	h=random.randrange(73,100)
 	i='0'
 	j=random.randrange(4200,4900)
@@ -188,15 +188,15 @@ for x in range(999):
 #	pf = f'{A}{B}{C}{D}'
 #	if pf in redmi:pass
 #	else:redmi.append(pf)
-#	A = f'Mozilla/5.0 (Linux; Android {str(rr(7,10))};'
-#	B = f' en-us; Infinix Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/'
-#	C = f'10.9.2.{str(rr(111,999))} U3/0.8.0 Mobile Safari/537.36'
+#	A = f'Mozilla/5.0 (SymbianOS/9.4; Series60/5.0; Android {str(rr(7,10))};'
+#	B = f' MI 4LTE Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) UCBrowser/'
+#	C = f'10.9.2.{str(rr(111,999))} U3/0.8.0 Mobile Safari/534.30'
 #	mi = f'{A}{B}{C}'
 #	if mi in redmi:pass
 #	else:redmi.append(mi)
 	A = f'Mozilla/5.0 (Linux; Android {str(rr(6,12))}; Redmi Note '
 	B = f'{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}{str(rr(11,99))}{str(rc(aZ))} '
-	C = f'{str(rr(2,27))} Build/{B}) AppleWebKit/537.36 (KHTML, like Gecko)'
+	C = f'{str(rr(2,12))} Build/{B}) AppleWebKit/537.36 (KHTML, like Gecko)'
 	D = f' Chrome/{str(rr(20,100))}.0.{str(rr(1111,9999))}.{str(rr(20,100))}'
 	E = f' Mobile Safari/537.36'
 	F = f'{A}{C}{D}{E}'
