@@ -180,7 +180,7 @@ for x in range(999):
 	aZ = ['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 #	A = f'Mozilla/5.0 (Linux; Android {str(rr(8,10))}; Redmi {str(rr(4,9))} Build/PPR1.'
 #	B = f'{str(rr(111111,199999))}.011; en-us) AppleWebKit/537.36 '
-#	C = f'(KHTML, like Gecko) UCBrowser/79.0.{str(rr(1111,9999))}.136 Mobile Safari'
+#	C = f'(KHTML, like Gecko) Version/4.0 UCBrowser/79.0.{str(rr(1111,9999))}.136 Mobile Safari'
 #	D = f'/537.36 Puffin/9.7.2.{str(rr(11111,99999))}AP'
 #	pf = f'{A}{B}{C}{D}'
 #	if pf in redmi:pass
