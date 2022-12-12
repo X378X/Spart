@@ -191,7 +191,7 @@ for x in range(999):
 #	mi = f'{A}{B}{C}'
 #	if mi in redmi:pass
 #	else:redmi.append(mi)
-	A = f'Mozilla/5.0 (Linux; U; Android {str(rr(5,13))}; Redmi Note '
+	A = f'Mozilla/5.0 (Linux; Android {str(rr(5,13))}; Redmi Note '
 	B = f'{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}{str(rr(11,99))}{str(rc(aZ))} '
 	C = f'{str(rr(6,12))} Build/{B}) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0'
 	D = f' Chrome/{str(rr(20,100))}.0.{str(rr(1111,9999))}.{str(rr(20,100))}'
