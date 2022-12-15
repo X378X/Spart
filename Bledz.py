@@ -177,7 +177,7 @@ for x in range(999):
 #	else:redmi.append(pf)
 #	A = f'Mozilla/5.0 (SymbianOS/9.4; Series60/5.0; Android {str(rr(7,10))};'
 #	B = f' MI 4LTE Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) UCBrowser/'
-#	C = f'10.9.2.{str(rr(111,999))} U3/0.8.0 Mobile Safari/534.30'
+#	C = f'10.9.2.{str(rr(111,999))} U3/0.8.0 Mobile Safari/535.1'
 #	mi = f'{A}{B}{C}'
 #	if mi in redmi:pass
 #	else:redmi.append(mi)
