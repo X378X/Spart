@@ -176,14 +176,14 @@ for x in range(999):
 #	if pf in redmi:pass
 #	else:redmi.append(pf)
 #	A = f'Mozilla/5.0 (Linux; Android {str(rr(7,10))};'
-#	B = f' en-au; SCV45 Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 UCBrowser/'
+#	B = f' en-US; RMX1901 Build/{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}63{str(rc(aZ))}; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 UCBrowser/'
 #	C = f'10.9.2.{str(rr(111,999))} U3/0.8.0 Mobile Safari/537.36'
 #	mi = f'{A}{B}{C}'
 #	if mi in redmi:pass
 #	else:redmi.append(mi)
 	A = f'Mozilla/5.0 (Linux; Android {str(rr(5,13))}; Redmi Note '
 	B = f'{str(rc(aZ))}{str(rc(aZ))}{str(rc(aZ))}{str(rr(11,99))}{str(rc(aZ))} '
-	C = f'{str(rr(6,12))} Build/{B}) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0'
+	C = f'{str(rr(6,12))} Build/{B}) AppleWebKit/537.36 (KHTML, like Gecko)'
 	D = f' Chrome/{str(rr(20,100))}.0.{str(rr(1111,9999))}.{str(rr(20,100))}'
 	E = f' Mobile Safari/537.36'
 	F = f'{A}{C}{D}{E}'
